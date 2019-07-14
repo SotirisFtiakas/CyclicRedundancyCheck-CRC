@@ -11,4 +11,6 @@ A cyclic redundancy check (CRC) is an error-detecting code commonly used in digi
 
 **TASK 3**: Sending the CRC message with a Bit-Error-Rate E (e.g. E=10^(-3)).
 
-**TASK 4**: Checking for errors at receiver (Correction of false message not included in this project)
+**TASK 4**: Checking for errors at receiver 
+
+***(NOTE: Correction of false messages is not included in this project)***
